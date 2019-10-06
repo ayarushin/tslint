@@ -3,6 +3,7 @@
   "description": "A TSLint config for projects",
   "version": "1.0.0",
   "author": "ayarushin (Alexey Yarushin)",
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "bugs": {
     "url": "https://github.com/ayarushin/tslint/issues"
   },

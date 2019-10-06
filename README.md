@@ -1,0 +1,2 @@
+# tslint
+Custom tslint config

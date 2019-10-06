@@ -1,0 +1,28 @@
+{
+  "name": "@ayarushin/tslint",
+  "description": "A TSLint config for projects",
+  "version": "1.0.0",
+  "author": "ayarushin (Alexey Yarushin)",
+  "bugs": {
+    "url": "https://github.com/ayarushin/tslint/issues"
+  },
+  "dependencies": {
+    "tslint-consistent-codestyle": "1.16.0",
+    "tslint-microsoft-contrib": "6.2.0"
+  },
+  "devDependencies": {
+    "tslint": "5.20.0",
+    "typescript": "3.6.3"
+  },
+  "homepage": "https://github.com/ayarushin/tslint/#readme",
+  "keywords": [
+    "tslint",
+    "typescript"
+  ],
+  "license": "GNU GPLv3",
+  "main": "tslint.js",
+  "peerDependencies": {
+    "tslint": "5.20.0"
+  },
+  "repository": "github:ayarushin/tslint"
+}

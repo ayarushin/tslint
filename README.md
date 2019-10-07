@@ -1,4 +1,5 @@
 # TSLint Config
+[![GitHub license](https://img.shields.io/badge/license-GNU-blue.svg)](https://github.com/ayarushin/tslint/blob/master/LICENSE)
 [![Dependency Status](https://david-dm.org/ayarushin/tslint.svg)](https://david-dm.org/ayarushin/tslint)
 ## Installation
 

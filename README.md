@@ -1,5 +1,5 @@
 # TSLint Config
-
+[![Dependency Status](https://david-dm.org/ayarushin/tslint.svg)](https://david-dm.org/ayarushin/tslint)
 ## Installation
 
 ```sh
